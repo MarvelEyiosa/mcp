@@ -1,0 +1,3 @@
+"""
+Document editor package
+"""
